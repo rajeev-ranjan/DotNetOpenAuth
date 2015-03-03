@@ -1,0 +1,1 @@
+All contributions made to this library must be under terms compatible with the Ms-PL license in the accompanying [LICENSE.txt](https://github.com/DotNetOpenAuth/DotNetOpenAuth/blob/master/LICENSE.txt) file.
